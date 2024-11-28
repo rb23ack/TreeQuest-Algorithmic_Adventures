@@ -18,4 +18,4 @@ int main() {
     cout << "Time taken for the challenge: " << duration.count() << " seconds" << endl;
 
     return 0;
-}
+}   

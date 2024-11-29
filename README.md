@@ -15,7 +15,9 @@
 - Leaderboard: Track performance using a file system (text file) to store scores.
 - Timer: Measure the time taken to solve each challenge to make the game more exciting.
 
+## Goal 
 
+- Time and space efficiency 
 
 
 

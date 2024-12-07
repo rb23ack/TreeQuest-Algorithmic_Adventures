@@ -93,7 +93,7 @@ private:
         leaderboard.close();
     }
 };
-
+ 
 int main() {
     TreeGame game;
     game.startGame();

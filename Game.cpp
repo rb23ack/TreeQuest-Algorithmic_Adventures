@@ -96,6 +96,6 @@ private:
  
 int main() {
     TreeGame game;
-    game.startGame();
+    game.startGame();    
     return 0;
 }      
